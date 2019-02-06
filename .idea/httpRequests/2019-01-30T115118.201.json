@@ -1,0 +1,10 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://localhost:8090/greeting/2"
+    },
+    "greeting": {
+      "href": "http://localhost:8090/greeting/2"
+    }
+  }
+}

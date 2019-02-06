@@ -1,0 +1,12 @@
+{
+  "name": "phil",
+  "phoneNumber": "10",
+  "_links": {
+    "self": {
+      "href": "http://localhost:8090/buddy/1"
+    },
+    "buddyInfo": {
+      "href": "http://localhost:8090/buddy/1"
+    }
+  }
+}

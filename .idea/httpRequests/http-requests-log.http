@@ -1,0 +1,70 @@
+POST http://localhost:8090/book
+Accept: */*
+Content-Type: application/json
+
+{"id": "1"}
+
+<> 2019-01-30T120425.201.json
+
+###
+
+POST http://localhost:8090/buddy
+Accept: */*
+Content-Type: application/json
+
+{"id": "1", "name": "phil", "phoneNumber": "10"}
+
+<> 2019-01-30T120337.201.json
+
+###
+
+POST http://localhost:8090/book
+Accept: */*
+Content-Type: application/json
+
+{"id": "10", "buddies": [{"id": "1", "name": "phil", "phoneNumber": "10"}]}
+
+<> 2019-01-30T120215.400.json
+
+###
+
+POST http://localhost:8090/book
+Accept: */*
+Content-Type: application/json
+
+{"id": "10"}
+
+<> 2019-01-30T115622.201.json
+
+###
+
+POST http://localhost:8090/greeting
+Accept: */*
+Content-Type: application/json
+
+{"id": "10"}
+
+<> 2019-01-30T115327.201.json
+
+###
+
+POST http://localhost:8090/greeting
+Accept: */*
+Content-Type: application/json
+
+{"id": "10"}
+
+<> 2019-01-30T115118.201.json
+
+###
+
+POST http://localhost:8090/people
+Accept: */*
+Content-Type: application/json
+
+{"firstName": "Frodo", "lastName": "Baggins"}
+
+<> 2019-01-30T114959.201.json
+
+###
+

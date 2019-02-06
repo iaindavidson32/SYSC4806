@@ -1,0 +1,10 @@
+{
+  "_links": {
+    "self": {
+      "href": "http://localhost:8090/book/1"
+    },
+    "addressBook": {
+      "href": "http://localhost:8090/book/1"
+    }
+  }
+}

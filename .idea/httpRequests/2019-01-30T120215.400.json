@@ -1,0 +1,13 @@
+{
+  "cause": {
+    "cause": {
+      "cause": {
+        "cause": null,
+        "message": "Cannot resolve URI id. Is it local or remote? Only local URIs are resolvable."
+      },
+      "message": "Failed to convert from type [java.net.URI] to type [Hello.BuddyInfo] for value 'id'; nested exception is java.lang.IllegalArgumentException: Cannot resolve URI id. Is it local or remote? Only local URIs are resolvable."
+    },
+    "message": "Failed to convert from type [java.net.URI] to type [Hello.BuddyInfo] for value 'id'; nested exception is java.lang.IllegalArgumentException: Cannot resolve URI id. Is it local or remote? Only local URIs are resolvable. (through reference chain: Hello.AddressBook[\"buddies\"]->java.util.ArrayList[1])"
+  },
+  "message": "JSON parse error: Failed to convert from type [java.net.URI] to type [Hello.BuddyInfo] for value 'id'; nested exception is java.lang.IllegalArgumentException: Cannot resolve URI id. Is it local or remote? Only local URIs are resolvable.; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Failed to convert from type [java.net.URI] to type [Hello.BuddyInfo] for value 'id'; nested exception is java.lang.IllegalArgumentException: Cannot resolve URI id. Is it local or remote? Only local URIs are resolvable. (through reference chain: Hello.AddressBook[\"buddies\"]->java.util.ArrayList[1])"
+}

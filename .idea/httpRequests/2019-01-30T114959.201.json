@@ -1,0 +1,12 @@
+{
+  "firstName": "Frodo",
+  "lastName": "Baggins",
+  "_links": {
+    "self": {
+      "href": "http://localhost:8090/people/1"
+    },
+    "person": {
+      "href": "http://localhost:8090/people/1"
+    }
+  }
+}
