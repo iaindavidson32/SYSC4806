@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b65b1846-183d-4ce1-bf9b-7303339d72be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T114959.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T114959.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115118.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115118.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115327.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115327.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115622.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T115622.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120215.400.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120215.400.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120337.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120337.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120425.201.json" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-01-30T120425.201.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab4.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/AddressBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/AddressBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/AddressBookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/AddressBookRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/AddressBookRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/BuddyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/BuddyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/BuddyInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/BuddyInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/BuddyRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/BuddyRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hello/PersonRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hello/PersonRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/buddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/buddy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/buddyresult.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/buddyresult.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ApplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HttpRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HttpRequestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmokeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/AddressBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/AddressBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/AddressBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/AddressBookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/BuddyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/BuddyController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/BuddyInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/BuddyInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Hello/PersonRepo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Hello/PersonRepo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/buddy.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/buddy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/buddyresult.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/buddyresult.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ApplicationTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ApplicationTest.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -141,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Hello/BuddyController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -159,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ApplicationTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -342,6 +293,24 @@
               <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -358,7 +327,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550850184325" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550850318981" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -605,9 +574,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HttpRequestTest - 2019.02.06 at 09h 26m 21s.xml">
-      <configuration name="HttpRequestTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HttpRequestTest_greetingShouldReturnDefaultMessage - 2019.02.06 at 09h 30m 03s.xml">
       <configuration name="HttpRequestTest.greetingShouldReturnDefaultMessage" configurationId="JUnit" />
     </history-entry>
@@ -635,12 +601,16 @@
     <history-entry file="WebLayerTest_shouldReturnDefaultMessage - 2019.02.06 at 09h 43m 14s.xml">
       <configuration name="WebLayerTest.shouldReturnDefaultMessage" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ApplicationTest - 2019.02.22 at 10h 43m 45s.xml">
+      <configuration name="ApplicationTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="17952000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -650,16 +620,16 @@
       <window_info id="Designer" order="5" />
       <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.17986578" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.49932885" weight="0.32577905" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" visible="true" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49932885" visible="true" weight="0.32577905" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50067115" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="5" weight="0.3286119" />
       <window_info anchor="bottom" id="Spring" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932885" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932885" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="10" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
@@ -826,16 +796,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ApplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -847,6 +807,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -902,7 +872,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>lab4</last-edited>
+          <last-edited>gs-serving-web-content</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
