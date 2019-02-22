@@ -1,6 +1,7 @@
 $(document).ready(function() {
     $.ajax({
-        url: "http://localhost:8080/buddy"
+        url: "https://idavidson-sysc4806lab5.herokuapp.com/buddy""
+        //url: "http://localhost:8080/buddy"
     }).then(function(data) {
        $('.buddy-name0').append(data._embedded.buddy[0].name);
        $('.buddy-number0').append(data._embedded.buddy[0].phoneNumber);
