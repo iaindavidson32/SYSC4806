@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Getting Started: Handling Form Submission</title>
+    <title>Buddy Created</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
@@ -9,6 +9,7 @@
 <p th:text="'id: ' + ${buddy.id}" />
 <p th:text="'name: ' + ${buddy.name}" />
 <p th:text="'number: ' + ${buddy.phoneNumber}" />
+<a href="/homebuddy">Go back to buddy home</a>
 <a href="/makebuddy">Create another buddy</a>
 </body>
 </html>

@@ -1,15 +1,14 @@
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Buddy Created</title>
+    <title>List of Buddies</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<h1>New Buddy created with info:</h1>
+<h1>List of buddies:</h1>
 <p th:text="'id: ' + ${buddy.id}" />
 <p th:text="'name: ' + ${buddy.name}" />
 <p th:text="'number: ' + ${buddy.phoneNumber}" />
 <a href="/homebuddy">Go back to buddy home</a>
-<a href="/makebuddy">Create another buddy</a>
 </body>
 </html>

@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
-    <title>Create AddressBook</title>
+    <title>Select buddy</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<h1>Create AddressBook with ID:</h1>
-<form action="#" th:action="@{/makebook}" th:object="${book}" method="post">
+<h1>Select a buddy index:</h1>
+<form action="#" th:action="@{/jsbuddysel}" th:object="${book}" method="post">
     <p>Id: <input type="text" th:field="*{id}" /></p>
     <p><input type="submit" value="Submit" /> <input type="reset" value="Reset" /></p>
 </form>

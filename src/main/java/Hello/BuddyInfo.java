@@ -14,6 +14,15 @@ public class BuddyInfo {
     private String name;
     private String phoneNumber;
 
+    public BuddyInfo(){
+
+    }
+
+    public BuddyInfo (String name, String phoneNumber) {
+        this.name = name;
+        this.phoneNumber = phoneNumber;
+    }
+
     public long getId() {
         return id;
     }
